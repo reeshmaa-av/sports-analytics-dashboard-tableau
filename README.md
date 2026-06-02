@@ -1,4 +1,4 @@
-# Olympic Athlete Performance & Medal Analytics Dashboard
+# Olympic Athlete Performance & Medal Analytics Dashboard Using Tableau
 # Overview
 
 This project is an interactive Tableau dashboard designed to analyze Olympic athlete performance, medal achievements, participation trends, and country-level sports success. The dashboard provides insights into how nations and athletes have performed across different Olympic Games over time.
